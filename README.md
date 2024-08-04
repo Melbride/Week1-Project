@@ -12,6 +12,7 @@ This repository is organized into two main folders:
 
 This folder contains:
 - **SQL Scripts:**
+  - Before loading the csv file, I connected dbeaver with my defaultdb from Aiven. 
   - `data.sql`: Contains queries I wrote while loading `sql_data.csv` into DBeaver.
   - `week1.sql`: The main script file where I executed queries for the questions.
   
