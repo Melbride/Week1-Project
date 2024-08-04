@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the results and scripts for my Week 1 assignment at Lux Academy and the DSEA 5-Week Bootcamp program.
+This repository contains the results, notebook and scripts for my Week 1 assignment at Lux Academy and the DSEA 5-Week Bootcamp program.
 
 ## Repository Structure
 
@@ -12,8 +12,8 @@ This repository is organized into two main folders:
 
 This folder contains:
 - **SQL Scripts:**
-  - `data.sql`: Contains queries written while loading `sql_data.csv` into DBeaver.
-  - `week1.sql`: The main script file where queries for the Week 1 questions were executed.
+  - `data.sql`: Contains queries I wrote while loading `sql_data.csv` into DBeaver.
+  - `week1.sql`: The main script file where I executed queries for the questions.
   
 - **Excel Files:**
   - `Weatherdata_Quiz1.xlsx`
@@ -22,19 +22,20 @@ This folder contains:
   - `Weatherdata_Quiz5.xlsx`
   - `Weatherdata_Quiz6.xlsx`
   
-  These files contain the output of each query execution.
+  The above files contains the output of each query execution.
 
 - **Dataset:**
-  - `sql_data.csv`: The dataset used for queries.
+  - `sql_data.csv`: The dataset I used to write queries.
 
 ### `Week1 pandas`
 
 This folder contains:
 - **Jupyter Notebook:**
-  - `Assignment_Week1.ipynb`: A Jupyter notebook showing how the assignment was completed, including the output of each cell.
+  - `Assignment_Week1.ipynb`: This Jupyter notebook shows how I answered questions, including the output of each cell.
+  - It also contains code of how I updated the WeatherData to sql_data for easy loading to Dbeaver. 
   
 - **Dataset:**
-  - `WeatherData.csv`: The original dataset .
+  - `WeatherData.csv`: This is the original dataset .
 
 ## Getting Started
 
@@ -47,7 +48,7 @@ To get started with this project, you can:
    - Open `week1.sql` in your SQL editor to execute the queries.
 
 3. **View Results:**
-   - Check the Excel files in the `Week1 SQL` folder for the results of each query.
+   - To view results check the Excel files in the `Week1 SQL` folder for the results of each query.
 
 4. **Review Pandas Analysis:**
-   - Open `Assignment_Week1.ipynb` in Jupyter Notebook to see the pandas analysis and outputs.
+   - Open `Assignment_Week1.ipynb` in Jupyter Notebook to see the pandas codes and outputs.
