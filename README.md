@@ -1,15 +1,53 @@
-      # Welcome My Week1 project at Lux Academy and DSEA 5 weeks Bootcamp program
-      
-      
-      This Repository contains two folders named Week1 SQL and Week1 pandas.
-      
-      The Week1 SQL contains two sql script files; data.sql, week1.sql and 5 excel files.
-      
-      The data.sql file contains queries I wrote while loading sql_data.csv into the dbeaver.
-      
-      week1.sql is the main file where I executed my queries for the questions.
-      
-      The excel files; Weatherdata_Quiz1, Weatherdata_Quiz 2, Weatherdata_Quiz3,  Weatherdata_Quiz5,  Weatherdata_Quiz6 is where I saved the output of each question query execution. The sql_data is my dataset.
-      
-      The Week1 pandas has two files; Assignment Week1 jupyter notebook file that shows how I did my assignment and the output of every cell.
-      WeatherData.csv is my original dataset.
+# Welcome to My Week 1 Project at Lux Academy and DSEA 5-Week Bootcamp Program
+
+## Overview
+
+This repository contains the results and scripts for my Week 1 assignment at Lux Academy and the DSEA 5-Week Bootcamp program.
+
+## Repository Structure
+
+This repository is organized into two main folders:
+
+### `Week1 SQL`
+
+This folder contains:
+- **SQL Scripts:**
+  - `data.sql`: Contains queries written while loading `sql_data.csv` into DBeaver.
+  - `week1.sql`: The main script file where queries for the Week 1 questions were executed.
+  
+- **Excel Files:**
+  - `Weatherdata_Quiz1.xlsx`
+  - `Weatherdata_Quiz2.xlsx`
+  - `Weatherdata_Quiz3.xlsx`
+  - `Weatherdata_Quiz5.xlsx`
+  - `Weatherdata_Quiz6.xlsx`
+  
+  These files contain the output of each query execution.
+
+- **Dataset:**
+  - `sql_data.csv`: The dataset used for queries.
+
+### `Week1 pandas`
+
+This folder contains:
+- **Jupyter Notebook:**
+  - `Assignment_Week1.ipynb`: A Jupyter notebook showing how the assignment was completed, including the output of each cell.
+  
+- **Dataset:**
+  - `WeatherData.csv`: The original dataset .
+
+## Getting Started
+
+To get started with this project, you can:
+
+1. **Load SQL Data:**
+   - Use `data.sql` to load `sql_data.csv` into DBeaver.
+
+2. **Execute Queries:**
+   - Open `week1.sql` in your SQL editor to execute the queries.
+
+3. **View Results:**
+   - Check the Excel files in the `Week1 SQL` folder for the results of each query.
+
+4. **Review Pandas Analysis:**
+   - Open `Assignment_Week1.ipynb` in Jupyter Notebook to see the pandas analysis and outputs.
